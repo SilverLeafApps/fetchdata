@@ -1,0 +1,20 @@
+[
+    {
+        "id": 100,
+        "name": "Local User 100",
+        "nickname": "SL100",
+        "email": "SL100@gmail.com"
+      },
+      {
+        "id": 200,
+        "name": "Local User 200",
+        "nickname": "SL200",
+        "email": "SL200@gmail.com"
+      },
+      {
+        "id": 300,
+        "name": "Local User 300",
+        "nickname": "SL300",
+        "email": "SL300@gmail.com"
+      }
+]

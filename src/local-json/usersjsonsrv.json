@@ -1,0 +1,17 @@
+
+{
+  "users": [
+    {
+      "id": 1000,
+      "name": "Local User 1000 - json-serve port 3009",
+      "nickname": "SL1",
+      "email": "SL1@gmail.com"
+    },
+    {
+        "id": 2000,
+        "name": "Local User 2000 - json-serve port 3009",
+        "nickname": "SL1",
+        "email": "SL1@gmail.com"
+    }
+  ]
+}
